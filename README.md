@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1>Say hi! 👋</h1>
 
-<!--
-**bsp982/bsp982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-pereira-4450a4160/)](https://www.linkedin.com/in/bruno-pereira-4450a4160/)
+[![Gmail Badge](https://img.shields.io/badge/-bruno.pereira.desenv@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno.pereira.desenv@gmail.com)](mailto:bruno.pereira.desenv@gmail.com)
 
-Here are some ideas to get you started:
+<img align="right" alt="Image Desenv" src="./img.png"  width="300px"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Bruno Santos Pereira
+
+(Java | Spring Boot | React JS | Angular | Typescript | Javascript | HTML | CSS ) 🚀
+
+- 👩‍💻 Desenvolvedor FullStack @[Sonner](https://sonner.com.br/).
+- 🎓 Sistemas de Informação @ [UNA](https://www.una.br/)
+- 🌐 Buscando sempre novas tecnologias
+- 💡 Tem algum desafio?
+
+<div align="left">
+
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bsp982&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+
+ </div>
+
