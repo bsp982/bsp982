@@ -1,28 +1,97 @@
-<h1>Say hi! 👋</h1>
+# Say hi! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-pereira-4450a4160/)](https://www.linkedin.com/in/bruno-pereira-4450a4160/)
 [![Gmail Badge](https://img.shields.io/badge/-bruno.pereira.desenv@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno.pereira.desenv@gmail.com)](mailto:bruno.pereira.desenv@gmail.com)
 
 <img align="right" alt="Image Desenv" src="./img.png"  width="300px"/>
 
-## Bruno Santos Pereira
+## 👨‍💻 Bruno Santos Pereira
 
-(Java | Spring Boot | React JS | Angular | Typescript | Javascript | HTML | CSS ) 🚀
-
-- 👩‍💻 Desenvolvedor FullStack @[Sonner](https://sonner.com.br/).
+### 💡 Sobre Mim
 - 🎓 Sistemas de Informação @ [UNA](https://www.una.br/)
-- 🌐 Buscando sempre novas tecnologias
-- 💡 Tem algum desafio?
+- 🌐 Desenvolvedor FullStack apaixonado por tecnologia
+- 🚀 Sempre em busca de novos desafios e aprendizados
+- 💼 Experiência sólida em desenvolvimento web e mobile
 
-<div align="left">
+### 🛠️ Stack Tecnológico
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=flat-square&logo=git&logoColor=white)
 
-[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bsp982&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+## 📈 Experiência Profissional
 
- </div>
+### NTT DATA | Desenvolvedor Pleno
+*AGO 2024 - MOMENTO*
+- 🔹 Desenvolvimento FullStack (Angular 17 + Java 8) em portal de avaliação
+- 🔹 Implementação de novas funcionalidades e manutenção do sistema
 
- <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+### Sonner Sistema de Informática | Desenvolvedor Pleno
+*JUN 2023 - AGO 2024*
+- 🔹 Projeto GRP-WEB: Portal de integração de módulos para prefeituras
+  - Stack: Angular 7 + Java 8
+  - Desenvolvimento FullStack e integrações
+- 🔹 Projeto GRP-MOBILE: Aplicativo de integração
+  - Stack: Angular 17 + Java 8 + Ionic 7
+  - Desenvolvimento mobile e integrações
+- 🔹 Líder do Time Squad Mobile
+  - Papel de Scrum Master
+  - Gestão de desenvolvimento e entregas
+
+### AMCOM | Desenvolvedor Junior/Pleno
+*JUN 2022 - JUN 2023*
+- 🔹 Cliente Philips - Projeto NICU
+  - Portal de gestão de pacientes em Neonatal
+  - Stack: React + Java 8
+- 🔹 Cliente Philips - Projeto Clinician
+  - Portal de administração hospitalar
+  - Stack: React + Java 8
+- 🔹 Cliente Philips - Projeto Customer Portal
+  - Gestão de tarefas abertas
+  - Stack: React
+- 🔹 Cliente ONS - Projeto Gerdin
+  - Portal de gestão de produção de energias
+  - Stack: Angular Material + JavaScript
+
+### Sonner Sistema de Informática | Desenvolvedor Junior
+*JAN 2019 - JUN 2022*
+- 🔹 Desenvolvimento FullStack
+  - Frontend: Angular + JavaScript
+  - Backend: Java
+- 🔹 Portal de integração de sistemas
+- 🔹 Desenvolvimento de projeto para guarda municipal
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsp982&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bsp982&show_icons=true&theme=dracula"/>
+</div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bsp982&theme=dracula)](https://git.io/streak-stats)
+
+## 🔧 Tecnologias & Ferramentas
+<div style="display: inline_block">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+</div>
+
+---
+💬 Quer conversar sobre tecnologia ou tem algum projeto interessante? Entre em contato!
 
 
