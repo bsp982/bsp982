@@ -69,6 +69,55 @@
 - 🔹 Portal de integração de sistemas
 - 🔹 Desenvolvimento de projeto para guarda municipal
 
+## 📊 Contribuições GitLab (Sonner)
+
+### 🚀 Principais Projetos
+- **GRP Mobile** (Ionic + Angular 17)
+  - Desenvolvimento e manutenção do aplicativo principal
+  - Implementação de módulos: SGE, GSP, GAS
+  - Integração com sistemas backend
+  
+- **GRP Web** (Angular + Java)
+  - Desenvolvimento fullstack
+  - Implementação de features mobile-first
+  - Otimização de performance
+
+- **Cidadão Online** (Ionic + Angular 17)
+  - Desenvolvimento de funcionalidades para cidadãos
+  - Implementação de extrato financeiro
+  - Integrações com sistemas municipais
+
+### 💻 Destaques Técnicos
+- 🔄 Gerenciamento ativo de branches e merge requests
+- 📱 Especialista em desenvolvimento mobile (Ionic/Angular)
+- 🏗️ Arquitetura de componentes reutilizáveis
+- 🔧 Implementação de CI/CD e boas práticas
+- 📈 Contribuições diárias em múltiplos projetos
+
+
+## 📅 Atividades & Contribuições
+
+
+### 📈 Resumo de Atividades
+- 🔵 Commits diários em múltiplos projetos
+- 🔄 Gerenciamento ativo de branches (criação/merge/delete)
+- 📦 Principais projetos ativos:
+  - `grp-mobile`: [Desenvolvimento mobile principal](https://play.google.com/store/apps/details?id=br.com.sonner.android.grpmobile&hl=pt_BR)
+  - `grp-web`: Desenvolvimento fullstack
+  - `cidadao-online`: [Portal do cidadão](https://play.google.com/store/apps/details?id=br.com.sonner.portalmobile&hl=pt_BR)
+
+### 🎯 Destaques Recentes
+- 📱 Implementação de features mobile para SGE (Sistema de Gestão Educacional)
+- 🏥 Desenvolvimento do módulo GSP (Gestão de Saúde Pública)
+- 👥 Melhorias no módulo GAS (Gestão de Assistência Social)
+- 💳 Otimizações no extrato financeiro do Cidadão Online
+
+### 🔄 Fluxo de Trabalho
+- Commits diários com padrão de mensagem 
+- Workflow de branches organizado por features
+- Code review e merge requests documentados
+- Integração contínua com pipelines automatizados
+
 ## 📊 Estatísticas GitHub
 
 <div align="center">
