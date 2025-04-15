@@ -29,41 +29,31 @@
 
 ## 📈 Experiência Profissional
 
-### Desenvolvedor Pleno
-*AGO 2024 - MOMENTO*
-- 🔹 Desenvolvimento FullStack em portal de avaliação
-- 🔹 Implementação de novas funcionalidades e manutenção do sistema
-- 🔹 Stack: Angular 17 + Java 8
+### Desenvolvimento FullStack
+- 🔹 Frontend
+  - Angular (7, 17)
+  - React
+  - TypeScript/JavaScript
+  - HTML5/CSS3
+  - Angular Material
+- 🔹 Backend
+  - Java 8
+  - Spring
+  - REST APIs
+- 🔹 Banco de Dados
+  - PostgreSQL
+- 🔹 DevOps
+  - Docker
+  - CI/CD
+  - Git
 
-### Desenvolvedor Pleno
-*JUN 2023 - AGO 2024*
+### Desenvolvimento Mobile
+- 🔹 Desenvolvimento de aplicativos multiplataforma
+  - Stack: Angular 17 + Java 8 + Ionic 7
+  - Implementação de features mobile-first
 - 🔹 Liderança de equipe mobile
   - Papel de Scrum Master
   - Gestão de desenvolvimento e entregas
-- 🔹 Desenvolvimento FullStack em portal de integração
-  - Stack: Angular 7 + Java 8
-- 🔹 Desenvolvimento mobile
-  - Stack: Angular 17 + Java 8 + Ionic 7
-  - Implementação de features mobile-first
-
-### Desenvolvedor Junior/Pleno
-*JUN 2022 - JUN 2023*
-- 🔹 Desenvolvimento de portais de gestão hospitalar
-  - Stack: React + Java 8
-- 🔹 Desenvolvimento de portal administrativo
-  - Stack: React + Java 8
-- 🔹 Desenvolvimento de portal de gestão de tarefas
-  - Stack: React
-- 🔹 Desenvolvimento de portal de gestão de produção
-  - Stack: Angular Material + JavaScript
-
-### Desenvolvedor Junior
-*JAN 2019 - JUN 2022*
-- 🔹 Desenvolvimento FullStack
-  - Frontend: Angular + JavaScript
-  - Backend: Java
-- 🔹 Desenvolvimento de portais de integração
-- 🔹 Desenvolvimento de sistemas municipais
 
 ## 📊 Contribuições Técnicas
 
