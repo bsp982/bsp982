@@ -77,6 +77,15 @@
 - 🔧 Implementação de CI/CD e boas práticas
 - 📈 Contribuições diárias em múltiplos projetos
 
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsp982&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bsp982&show_icons=true&theme=dracula"/>
+</div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bsp982&theme=dracula)](https://git.io/streak-stats)
+
 ## 🔧 Tecnologias & Ferramentas
 <div style="display: inline_block">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
