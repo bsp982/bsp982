@@ -29,103 +29,63 @@
 
 ## 📈 Experiência Profissional
 
-### NTT DATA | Desenvolvedor Pleno
+### Desenvolvedor Pleno
 *AGO 2024 - MOMENTO*
-- 🔹 Desenvolvimento FullStack (Angular 17 + Java 8) em portal de avaliação
+- 🔹 Desenvolvimento FullStack em portal de avaliação
 - 🔹 Implementação de novas funcionalidades e manutenção do sistema
+- 🔹 Stack: Angular 17 + Java 8
 
-### Sonner Sistema de Informática | Desenvolvedor Pleno
+### Desenvolvedor Pleno
 *JUN 2023 - AGO 2024*
-- 🔹 Projeto GRP-WEB: Portal de integração de módulos para prefeituras
-  - Stack: Angular 7 + Java 8
-  - Desenvolvimento FullStack e integrações
-- 🔹 Projeto GRP-MOBILE: Aplicativo de integração
-  - Stack: Angular 17 + Java 8 + Ionic 7
-  - Desenvolvimento mobile e integrações
-- 🔹 Líder do Time Squad Mobile
+- 🔹 Liderança de equipe mobile
   - Papel de Scrum Master
   - Gestão de desenvolvimento e entregas
+- 🔹 Desenvolvimento FullStack em portal de integração
+  - Stack: Angular 7 + Java 8
+- 🔹 Desenvolvimento mobile
+  - Stack: Angular 17 + Java 8 + Ionic 7
+  - Implementação de features mobile-first
 
-### AMCOM | Desenvolvedor Junior/Pleno
+### Desenvolvedor Junior/Pleno
 *JUN 2022 - JUN 2023*
-- 🔹 Cliente Philips - Projeto NICU
-  - Portal de gestão de pacientes em Neonatal
+- 🔹 Desenvolvimento de portais de gestão hospitalar
   - Stack: React + Java 8
-- 🔹 Cliente Philips - Projeto Clinician
-  - Portal de administração hospitalar
+- 🔹 Desenvolvimento de portal administrativo
   - Stack: React + Java 8
-- 🔹 Cliente Philips - Projeto Customer Portal
-  - Gestão de tarefas abertas
+- 🔹 Desenvolvimento de portal de gestão de tarefas
   - Stack: React
-- 🔹 Cliente ONS - Projeto Gerdin
-  - Portal de gestão de produção de energias
+- 🔹 Desenvolvimento de portal de gestão de produção
   - Stack: Angular Material + JavaScript
 
-### Sonner Sistema de Informática | Desenvolvedor Junior
+### Desenvolvedor Junior
 *JAN 2019 - JUN 2022*
 - 🔹 Desenvolvimento FullStack
   - Frontend: Angular + JavaScript
   - Backend: Java
-- 🔹 Portal de integração de sistemas
-- 🔹 Desenvolvimento de projeto para guarda municipal
+- 🔹 Desenvolvimento de portais de integração
+- 🔹 Desenvolvimento de sistemas municipais
 
-## 📊 Contribuições GitLab (Sonner)
+## 📊 Contribuições Técnicas
 
-### 🚀 Principais Projetos
-- **GRP Mobile** (Ionic + Angular 17)
-  - Desenvolvimento e manutenção do aplicativo principal
-  - Implementação de módulos: SGE, GSP, GAS
+### 🚀 Principais Experiências
+- **Desenvolvimento Mobile**
+  - Experiência com Ionic e Angular
+  - Desenvolvimento de aplicativos multiplataforma
+  - Implementação de módulos complexos
   - Integração com sistemas backend
   
-- **GRP Web** (Angular + Java)
-  - Desenvolvimento fullstack
+- **Desenvolvimento Web**
+  - Experiência fullstack
   - Implementação de features mobile-first
   - Otimização de performance
-
-- **Cidadão Online** (Ionic + Angular 17)
-  - Desenvolvimento de funcionalidades para cidadãos
-  - Implementação de extrato financeiro
-  - Integrações com sistemas municipais
+  - Desenvolvimento de portais administrativos
 
 ### 💻 Destaques Técnicos
 - 🔄 Gerenciamento ativo de branches e merge requests
-- 📱 Especialista em desenvolvimento mobile (Ionic/Angular)
+- 📱 Especialista em desenvolvimento mobile
 - 🏗️ Arquitetura de componentes reutilizáveis
 - 🔧 Implementação de CI/CD e boas práticas
 - 📈 Contribuições diárias em múltiplos projetos
-
-
-## 📅 Atividades & Contribuições
-
-
-### 📈 Resumo de Atividades
-- 🔵 Commits diários em múltiplos projetos
-- 🔄 Gerenciamento ativo de branches (criação/merge/delete)
-- 📦 Principais projetos ativos:
-  - `grp-mobile`: [Desenvolvimento mobile principal](https://play.google.com/store/apps/details?id=br.com.sonner.android.grpmobile&hl=pt_BR)
-  - `grp-web`: Desenvolvimento fullstack
-  - `cidadao-online`: [Portal do cidadão](https://play.google.com/store/apps/details?id=br.com.sonner.portalmobile&hl=pt_BR)
-
-### 🎯 Destaques Recentes
-- 📱 Implementação de features mobile para SGE (Sistema de Gestão Educacional)
-- 🏥 Desenvolvimento do módulo GSP (Gestão de Saúde Pública)
-- 👥 Melhorias no módulo GAS (Gestão de Assistência Social)
-- 💳 Otimizações no extrato financeiro do Cidadão Online
-
-### 🔄 Fluxo de Trabalho
-- Commits diários com padrão de mensagem 
-- Workflow de branches organizado por features
-- Code review e merge requests documentados
-- Integração contínua com pipelines automatizados
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsp982&layout=compact&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bsp982&show_icons=true&theme=dracula"/>
-</div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bsp982&theme=dracula)](https://git.io/streak-stats)
 
 ## 🔧 Tecnologias & Ferramentas
 <div style="display: inline_block">
