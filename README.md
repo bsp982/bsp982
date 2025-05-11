@@ -1,33 +1,41 @@
-# Say hi! 👋
+# Olá, eu sou Bruno Santos Pereira! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-pereira-4450a4160/)](https://www.linkedin.com/in/bruno-pereira-4450a4160/)
 [![Gmail Badge](https://img.shields.io/badge/-bruno.pereira.desenv@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno.pereira.desenv@gmail.com)](mailto:bruno.pereira.desenv@gmail.com)
 
 <img align="right" alt="Image Desenv" src="./img.png"  width="300px"/>
 
-## 👨‍💻 Bruno Santos Pereira
+## 👨‍💻 Sobre Mim
 
-### 💡 Sobre Mim
-- 🎓 Sistemas de Informação @ [UNA](https://www.una.br/)
-- 🌐 Desenvolvedor FullStack apaixonado por tecnologia
-- 🚀 Sempre em busca de novos desafios e aprendizados
-- 💼 Experiência sólida em desenvolvimento web e mobile
+Desenvolvedor FullStack apaixonado por tecnologia e inovação, com foco em criar soluções robustas e escaláveis. Minha jornada na área de desenvolvimento me permitiu acumular experiência significativa em projetos desafiadores, sempre buscando entregar código limpo, manutenível e de alta performance.
 
-### 🛠️ Stack Tecnológico
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+### 🎯 Objetivos Profissionais
+- Contribuir com projetos inovadores e desafiadores
+- Aplicar e compartilhar conhecimentos em desenvolvimento
+- Crescer profissionalmente em um ambiente colaborativo
+- Desenvolver soluções que impactem positivamente os usuários
+
+## 🛠️ Stack Tecnológico
+
+### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+### Mobile & DevOps
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=flat-square&logo=git&logoColor=white)
 
-## 📈 Experiência Profissional
+## 💼 Experiência Profissional
 
 ### Desenvolvimento FullStack
 - 🔹 Frontend
@@ -55,27 +63,21 @@
   - Papel de Scrum Master
   - Gestão de desenvolvimento e entregas
 
-## 📊 Contribuições Técnicas
+## 🚀 Diferenciais
 
-### 🚀 Principais Experiências
-- **Desenvolvimento Mobile**
-  - Experiência com Ionic e Angular
-  - Desenvolvimento de aplicativos multiplataforma
-  - Implementação de módulos complexos
-  - Integração com sistemas backend
-  
-- **Desenvolvimento Web**
-  - Experiência fullstack
-  - Implementação de features mobile-first
-  - Otimização de performance
-  - Desenvolvimento de portais administrativos
+### Habilidades Técnicas
+- Arquitetura de componentes reutilizáveis
+- Implementação de CI/CD e boas práticas
+- Desenvolvimento mobile-first
+- Otimização de performance
+- Gerenciamento de branches e merge requests
 
-### 💻 Destaques Técnicos
-- 🔄 Gerenciamento ativo de branches e merge requests
-- 📱 Especialista em desenvolvimento mobile
-- 🏗️ Arquitetura de componentes reutilizáveis
-- 🔧 Implementação de CI/CD e boas práticas
-- 📈 Contribuições diárias em múltiplos projetos
+### Soft Skills
+- Liderança de equipes
+- Gestão de projetos
+- Comunicação efetiva
+- Resolução de problemas
+- Trabalho em equipe
 
 ## 📊 Estatísticas GitHub
 
@@ -100,6 +102,6 @@
 </div>
 
 ---
-💬 Quer conversar sobre tecnologia ou tem algum projeto interessante? Entre em contato!
+💬 Estou sempre aberto a novas oportunidades e desafios! Vamos conversar sobre como posso contribuir com seu projeto?
 
 
